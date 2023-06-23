@@ -4,6 +4,7 @@
 <!-- prettier-ignore-start and welcome -->
 
 - [Divyansh Pratap Singh](https://github.com/divyansh2375)
+- [Mmokut Umoh](https://github.com/Yukin3)
 - [Vivek Kumar Shrivastav](https://github.com/Vivek-Kumar-Shrivastav)
 - [Rimma Kubanova](https://github.com/rimma-kubanova)
 - [Abhay Donga](https://github.com/AbhayDonga007)
